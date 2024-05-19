@@ -20,23 +20,23 @@
     <main>
         <section id="about">
             <h2>About Me</h2>
-            <p>Hello! I'm [Your Name], a [Your Profession] from [Your Location]. I enjoy creating solutions that make life easier and more enjoyable. Welcome to my personal website where you can learn more about me and my work.</p>
+            <p>I'm a student from York. I enjoy creating solutions that make life easier and more enjoyable. Welcome to my personal website where you can learn more about me and my work.
         </section>
         <section id="projects">
             <h2>Projects</h2>
             <ul>
-                <li><strong>Project 1:</strong> Description of your first project.</li>
+                <li><strong>Project 1:</strong> I am an experienced coder with java, javascript, and C#.</li>
                 <li><strong>Project 2:</strong> Description of your second project.</li>
                 <li><strong>Project 3:</strong> Description of your third project.</li>
             </ul>
         </section>
         <section id="contact">
             <h2>Contact</h2>
-            <p>You can reach me at <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
+            <p>You can reach me at <a href="skyhigh9430@email@gmail.com">your.email@example.com</a>.</p>
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 [Your Name]. All rights reserved.</p>
+        <p>&copy; 2024 Kyuzoko. All rights reserved.</p>
     </footer>
 </body>
 </html>
